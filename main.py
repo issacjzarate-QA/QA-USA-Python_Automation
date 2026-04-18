@@ -20,10 +20,10 @@ class TestUrbanRoutes:
         else:
             print("Cannot connect to Urban Routes. Check the server is on and still running")
 
-        cls.driver.get(data.URBAN_ROUTES_URL)
 
     #Setting the Address (To & From Fields)
     def test_set_route(self):
+        self.driver.get(data.URBAN_ROUTES_URL)
         page = UrbanRoutesPage(self.driver)
 
         page.set_from(data.ADDRESS_FROM)
