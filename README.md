@@ -1,6 +1,7 @@
                                         🚕 Urban Routes – Automated UI Testing with Selenium (Project 8)
 
-    This project represents the moment where everything I learned in the QA program finally came together — Page Object Model, Selenium, locators, waits, assertions, user flows, debugging, and real‑world test design.
+    This project represents the moment where everything I learned in the QA program finally came together
+    Page Object Model, Selenium, locators, waits, assertions, user flows, debugging, and real‑world test design.
 
 Urban Routes is a web application that allows users to enter an address, choose a taxi plan, add extras (like blankets or ice cream), verify their phone number, and order a ride.
 
