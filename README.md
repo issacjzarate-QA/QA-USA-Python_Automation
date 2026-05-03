@@ -1,3 +1,18 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/Urban%20Routes%20Automation-Project%208-blueviolet?style=for-the-badge" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.10-blue?style=flat-square&logo=python" />
+  <img src="https://img.shields.io/badge/Selenium-Automation-brightgreen?style=flat-square&logo=selenium" />
+  <img src="https://img.shields.io/badge/Pytest-Framework-orange?style=flat-square&logo=pytest" />
+  <img src="https://img.shields.io/badge/POM-Design%20Pattern-yellow?style=flat-square" />
+</p>
+## 🧰 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,selenium,github,pytest" />
+</p>
+
                                         🚕 Urban Routes – Automated UI Testing with Selenium (Project 8)
 
     This project represents the moment where everything I learned in the QA program finally came together
@@ -196,3 +211,17 @@ It represents a major milestone in my QA engineering journey — the moment wher
 Issac J. Zarate  
 QA Engineer — Manual & Automation
 Focused on clean test design, real‑world workflows, and continuous learning.
+## 🛠 How I Built This
+
+This project was a major milestone in my QA journey. I approached it like a real automation engineer:
+
+- Broke the flow into small, testable pieces  
+- Designed a clean Page Object Model (POM)  
+- Used explicit waits instead of sleeps  
+- Chose stable locators (ID > XPath when possible)  
+- Debugged modal windows, focus issues, and dynamic elements  
+- Wrote tests that mimic real user behavior  
+- Used helper utilities to retrieve SMS codes  
+- Focused on readability, maintainability, and clarity  
+
+Every method, locator, and assertion reflects a real decision I made while learning how to automate professionally.
